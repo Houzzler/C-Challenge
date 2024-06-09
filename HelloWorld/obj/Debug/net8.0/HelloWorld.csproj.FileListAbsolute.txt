@@ -1,0 +1,15 @@
+F:\Code\CSharp-Challenge\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+F:\Code\CSharp-Challenge\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+F:\Code\CSharp-Challenge\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+F:\Code\CSharp-Challenge\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+F:\Code\CSharp-Challenge\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+F:\Code\CSharp-Challenge\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
